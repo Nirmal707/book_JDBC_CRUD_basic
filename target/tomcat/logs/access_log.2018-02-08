@@ -1,0 +1,11 @@
+0:0:0:0:0:0:0:1 - - [08/Feb/2018:19:11:20 +0530] "GET / HTTP/1.1" 200 1725 http-bio-9090-exec-3 125
+0:0:0:0:0:0:0:1 - - [08/Feb/2018:19:11:20 +0530] "GET / HTTP/1.1" 200 1725 http-bio-9090-exec-2 887
+0:0:0:0:0:0:0:1 - - [08/Feb/2018:19:11:20 +0530] "GET /book.js HTTP/1.1" 200 2384 http-bio-9090-exec-5 3
+0:0:0:0:0:0:0:1 - - [08/Feb/2018:19:12:37 +0530] "GET / HTTP/1.1" 200 1725 http-bio-9090-exec-8 6
+0:0:0:0:0:0:0:1 - - [08/Feb/2018:19:12:37 +0530] "GET /book.js HTTP/1.1" 200 2371 http-bio-9090-exec-9 34
+0:0:0:0:0:0:0:1 - - [08/Feb/2018:19:12:38 +0530] "GET /book HTTP/1.1" 200 876 http-bio-9090-exec-10 499
+0:0:0:0:0:0:0:1 - - [08/Feb/2018:19:12:42 +0530] "GET /book/edit?value=59 HTTP/1.1" 200 66 http-bio-9090-exec-10 41
+0:0:0:0:0:0:0:1 - - [08/Feb/2018:19:12:48 +0530] "GET /?title=59&title=Revanth59&author=author222&price=250.256 HTTP/1.1" 200 1725 http-bio-9090-exec-6 1
+0:0:0:0:0:0:0:1 - - [08/Feb/2018:19:12:48 +0530] "GET /book.js HTTP/1.1" 304 - http-bio-9090-exec-6 4
+0:0:0:0:0:0:0:1 - - [08/Feb/2018:19:12:48 +0530] "GET /book/update?id=59&title=Revanth59&author=author222&price=250.256 HTTP/1.1" 302 - http-bio-9090-exec-10 134
+0:0:0:0:0:0:0:1 - - [08/Feb/2018:19:12:48 +0530] "GET /book HTTP/1.1" 200 878 http-bio-9090-exec-6 23
